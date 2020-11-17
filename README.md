@@ -1,4 +1,4 @@
 Audio Event Detection for Emergency Service Vehicles
 
 Config
-    - Conda environment: FYP
+    - Conda environment: FYP# SirenDetection
